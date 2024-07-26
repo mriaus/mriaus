@@ -1,17 +1,13 @@
 ### Bienvenido a mi perfil! / Hi! Welcome to my profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 ##  Sobre mi / About me 🧐
- Soy Marcos, Junior mobile developer y mid fullstack developer 📱
+ Soy Marcos, mobile developer y fullstack developer 📱
  Hasta hace poco tiempo mi carrera se ha centrado en el desarrollo web aunque siempre me ha interesado el desarrollo mobile.
- Por eso desde hace un tiempo estoy cursando un bootcamp en keepcoding sobre desarrollo de apps moviles. 
-
- Actualmente estoy intentando especializarme en el sector de las apps moviles como podrás ver en varios repositorios por aquí debajo.
+ Por eso desde hace un tiempo estoy especializandome en el desarrollo de apps moviles. 
 
  ***
 
- I'm Marcos, a Junior mobile developer and mid-level full-stack developer 📱 Until recently, my career has been focused on web development, although I've always been interested in mobile development. That's why I've been attending a bootcamp at KeepCoding for some time now, focusing on mobile app development.
-
-Currently, I'm striving to specialize in the mobile app sector, as you can see in several repositories down below.
+ I'm Marcos, a mobile developer and mid-level full-stack developer 📱 Until recently, my career has been focused on web development, although I've always been interested in mobile development. That's why I've been focusing on mobile app development.
 
 
  ## He trabajado con / Worked with  🤖
@@ -23,14 +19,14 @@ Currently, I'm striving to specialize in the mobile app sector, as you can see i
 
 ## Proyectos / Projects 🚧🛠️🚧
 
-Durante el bootcamp he realizado varios proyectos, añado algunas imagenes por aquí abajo ⬇️
+He realizado varios proyectos, añado algunas imagenes por aquí abajo ⬇️
 ***
-During the bootcamp, I have completed several projects, and I'll add some images down below ⬇️
+I have completed several projects, and I'll add some images down below ⬇️
 
- Hice una app donde cargabamos desde la api del bootcamp una lista de personajes junto a su ubicación y podiamos verla representada en un mapa:
+ Hice una app donde cargamos desde una api una lista de personajes junto a su ubicación y podemos verla representada en un mapa:
  
  ---
- I made an app where we loaded a list of characters along with their location from the bootcamp's API, and we could see them represented on a map.
+ I made an app where we loaded a list of characters along with their location form an API, and we could see them represented on a map.
  <br><br>
  
  [Ir al proyecto / Go to the project ](https://github.com/mriaus/IOSAdvancedTest)
@@ -39,18 +35,6 @@ During the bootcamp, I have completed several projects, and I'll add some images
 <img alt="DBAdvanced" src="https://i.postimg.cc/zfYVbMJB/Simulator-Screenshot-i-Phone-15-Pro-2023-10-29-at-18-02-16.png" width="200px" height="400px"> &nbsp;
 <img alt="DBAdvanced" src="https://i.postimg.cc/Bv5txg6C/Simulator-Screenshot-i-Phone-15-Pro-2023-10-29-at-18-02-34.png" width="200px" height="400px"> &nbsp;
 <img alt="DBAdvanced" src="https://i.postimg.cc/fR9VbZQp/Simulator-Screenshot-i-Phone-15-Pro-2023-10-29-at-18-02-39.png" width="200px" height="400px"> &nbsp;
-
-También he realizado un proyecto muy sencillito con MVVM en el modulo de patrones sobre pokemon donde vi como utilizar Lottie: 
-
----
-I've also completed a very simple project using MVVM in the design patterns module, focusing on Pokémon, where I learned how to utilize Lottie.
-<br><br>
- [Ir al proyecto / Go to the project ](https://github.com/mriaus/MVVMPokemon/tree/main)<br>
-
-<img alt="pokemonmvvm" src="https://i.postimg.cc/J0hDrVSn/Simulator-Screenshot-i-Phone-15-Pro-2023-10-25-at-17-40-06.png" width="200px" height="400px"> &nbsp;
-<img alt="pokemonmvvm" src="https://i.postimg.cc/pV050rnn/Simulator-Screenshot-i-Phone-15-Pro-2023-10-25-at-17-40-17.png" width="200px" height="400px"> &nbsp;
-<img alt="pokemonmvvm" src="https://i.postimg.cc/bwnGNRVQ/Simulator-Screenshot-i-Phone-15-Pro-2023-10-25-at-17-39-31.png" width="200px" height="400px"> &nbsp;
-<img alt="pokemonmvvm" src="https://i.postimg.cc/CLXBg27h/Simulator-Screenshot-i-Phone-15-Pro-2023-10-25-at-17-39-43.png" width="200px" height="400px"> &nbsp;
 
 Por ultimo añadir el proyecto multiplataforma de ios usando la api de marvel, que funciona tanto en smartwatch, iphone como mac: 
 
@@ -66,15 +50,13 @@ Finally, I'd like to add the cross-platform iOS project using the Marvel API, wh
 
 ##  En camino... / WIP or comming soon... 👨🏻‍💻
 
-Ahora mismo estoy iniciando una proyecto en el que quiero realizar una pokedex con swiftUI + combine para afianzar lo aprendido en los modulos anteriores y hacer una app mas simple que muestre algunos pokemon con async - await.
+Estoy iniciando una proyecto en el que quiero que varias personas puedan enlazarse y elegir peliculas en las que ambos estén interesados para verlas utilizando swiftUI y firebase
 
-También estoy comenzando la parte Android del bootcamp conque en breves iré añadiendo nuevos proyectos en android.
 
 ---
 
-Right now, I'm starting a project where I aim to create a Pokédex using SwiftUI + Combine to solidify what I've learned in previous modules and develop a simpler app displaying some Pokémon using async-await.
+I am starting a project where I want several people to be able to connect and choose movies that they are both interested in watching, using SwiftUI and Firebase
 
-I'm also beginning the Android part of the bootcamp, so shortly, I'll be adding new Android projects.
 
 ## Otros datos / Extra data
 
