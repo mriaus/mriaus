@@ -50,8 +50,10 @@ Finally, I'd like to add the cross-platform iOS project using the Marvel API, wh
 
 ##  En camino... / WIP or comming soon... 👨🏻‍💻
 
-Estoy iniciando una proyecto en el que quiero que varias personas puedan enlazarse y elegir peliculas en las que ambos estén interesados para verlas utilizando swiftUI y firebase
-
+(SwiftUI)Estoy iniciando una proyecto en el que quiero que varias personas puedan enlazarse y elegir peliculas en las que ambos estén interesados para verlas utilizando swiftUI y firebase.
+(UIkit)App para ver si es buen momento para sacar a pasear a tu perro en función de la temperatura
+<br>
+[Ir al proyecto](https://github.com/mriaus/shouldWeWalk)<br>
 
 ---
 
